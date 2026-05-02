@@ -497,7 +497,7 @@ export default function App() {
         <div className="sticker sticker-one">kawaii fonts</div>
         <div className="sticker sticker-two">pow!</div>
 
-        <p className="eyebrow">Pastel Comic Studio</p>
+        <p className="eyebrow">Aru's Font Boutique</p>
         <h1>Font Match</h1>
         <p className="intro">
           Type your line. The board recommends fonts that fit the vibe.
